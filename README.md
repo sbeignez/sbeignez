@@ -23,7 +23,11 @@
 
 Badge | Name
 ----- | ----
-![Leetcode-2021-4](/img/dcc-2021-4.png) | **Leetcode Daily Challenge April 2021**<br/> *For completing 30 days of problems solving from 1st to 30 of April 2021*
-![Leetcode-2021-5](/img/dcc-2021-5.png) | **Leetcode Daily Challenge May 2021**<br/> *For completing 31 days of problems solving from 1st to 31 of May 2021*
-![AWS](/img/AWS-Certified-Cloud-Practitioner.128x128.png) | Certification: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1cd2a747-1890-4a9f-8185-a784010b5597).
 ![MIT](/img/MITx-logo.png) | MITx 6.86x Machine Learning with Python. <br/>*From Linear Models to Deep Learning*, Dec 2021
+![SQL](/img/HackerRank-SQL-5-stars.png) | SQL badge - Gold Level on HackerRank, 2021 <br/> [hackerrank.com/sebastien_bgz](https://www.hackerrank.com/sebastien_bgz)
+![AWS](/img/AWS-Certified-Cloud-Practitioner.128x128.png) | Certification: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1cd2a747-1890-4a9f-8185-a784010b5597).
+![Leetcode-2021-5](/img/dcc-2021-5.png) | **Leetcode Daily Challenge May 2021**<br/> *For completing 31 days of problems solving from 1st to 31 of May 2021*
+![Leetcode-2021-4](/img/dcc-2021-4.png) | **Leetcode Daily Challenge April 2021**<br/> *For completing 30 days of problems solving from 1st to 30 of April 2021*
+
+
+
