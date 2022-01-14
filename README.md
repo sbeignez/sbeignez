@@ -10,7 +10,7 @@
 
 Repo  | Name
 ----- | ----
-[![AI-Snake](https://placeholder.pics/svg/128/FFFFFF/AAAAAA/Snake)](https://github.com/sbeignez/AI-Snake) | [**AI-Snake**](https://github.com/sbeignez/AI-Snake)<br/>The Snake game solved using Algoritmics and Reinforcement Learning
+[![AI-Snake](img/AI-Snake.Screen.128.png)](https://github.com/sbeignez/AI-Snake) | [**AI-Snake**](https://github.com/sbeignez/AI-Snake)<br/>The Snake game solved using Algoritmics and Reinforcement Learning
 [![MIT](https://placeholder.pics/svg/128/FFFFFF/AAAAAA/MIT-ML)](https://github.com/sbeignez/MITx-6.86x-Machine-Learning) | [**MIT Course: Machine Learning**](https://github.com/sbeignez/MITx-6.86x-Machine-Learning)<br/>MITx 6.86x, Machine Learning with Python.<br>Course notes and summaries.
 [![LeetCode](https://placeholder.pics/svg/128/FFFFFF/AAAAAA/LeetCode)](https://github.com/sbeignez/LeetCode) | [**Leetcode**](https://github.com/sbeignez/LeetCode)<br/>Collection of solved coding exercices from https://leetcode.com.<br/>Data Structures, Algorithms. In Python.<br>My [Leetcode](https://leetcode.com/bastienbz/) homepage
 [![ALL](https://placeholder.pics/svg/128/FFFFFF/AAAAAA/...)](https://github.com/sbeignez?tab=repositories) | More: The [**Repositories**](https://github.com/sbeignez?tab=repositories) page
